@@ -1,0 +1,6 @@
+- host: all
+  tasks:
+  - name: create file
+    file:
+      path: "/C:\Users\Gali Radhika\my-plane\sample.txt"
+       state: touch
