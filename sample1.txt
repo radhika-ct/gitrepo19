@@ -5,3 +5,4 @@
       dest: "/home/ansadmin/sample.txt"
       content:
         Radhika gali
+	gali radhika
