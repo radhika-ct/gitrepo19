@@ -1,2 +1,10 @@
-andrika gali
-git add different files
+public class main {
+public status void main(string[] args) {
+
+System.out.println("devops");
+
+System.out.println("conflict");
+System.out.println("docker");
+}
+
+ }
