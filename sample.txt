@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class main {
 public status void main(string[] args) {
 
@@ -9,3 +10,6 @@ System.out.println("docker");
 
  }
  change
+=======
+andrika gali
+>>>>>>> master

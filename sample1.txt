@@ -5,5 +5,14 @@
       dest: "/home/ansadmin/sample.txt"
       content:
         Radhika gali
+<<<<<<< HEAD
 	gali radhika
 	santhu gali
+=======
+	gali veera
+	gali radhika
+	santhu gali
+	gali radhika
+	santhu gali
+
+>>>>>>> master
